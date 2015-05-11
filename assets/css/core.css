@@ -1,0 +1,11 @@
+body {
+  position: relative;
+}
+
+#ball {
+  position: relative;
+  background: black;
+  width: 20px;
+  height: 20px;
+  border-radius: 10px;
+}
